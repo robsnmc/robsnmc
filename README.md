@@ -2,33 +2,29 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/pLgom5kv8PLnG/giphy.gif?cid=ecf05e47ca5r3bnw8f8cxaoxn8xa7ak6n10qbua8k8y63cr8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<p align="left">My name is Robson and I am a technology enthusiast, I like programming and learning new languages, studying and doing projects.</p>
 
 ###
 
-<p align="left">My name is Robson and I'm a technology enthusiast</p>
+<h2 align="left">My Techs</h2>
 
 ###
 
-<h3 align="left">My Techs</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
 </div>
 
 ###
 
-<h3 align="left">Stats</h3>
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -40,8 +36,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/robsnmc/robsnmc/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=robsnmc.robsnmc&"  />
+</div>
 
 ###
