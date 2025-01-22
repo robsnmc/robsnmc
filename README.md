@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Robson and I am a technology enthusiast, I like programming and learning new languages, studying and doing projects.</h4>
+<p align="left">My name is Robson and I am a technology enthusiast, I like programming and learning new languages, studying and doing projects.</p>
 
 ###
 
