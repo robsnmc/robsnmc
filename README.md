@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Robson and I am a technology enthusiast, I like programming and learning new languages, studying and doing projects.</p>
+<h4 align="left">My name is Robson and I am a technology enthusiast, I like programming and learning new languages, studying and doing projects.</h4>
 
 ###
 
@@ -12,13 +12,13 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="15" />
+  <img width="25" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
 </div>
 
