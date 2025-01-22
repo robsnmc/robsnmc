@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Welcome to my GitHub profile</h2>
+<h1 align="left">👋 Welcome to my GitHub profile</h1>
 
 ###
 
@@ -21,6 +21,10 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
